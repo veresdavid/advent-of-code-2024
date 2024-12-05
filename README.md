@@ -8,7 +8,7 @@ My Advent of Code 2024 calendar, solutions written in **Elixir**.
 - [x] Day 02 ⭐⭐
 - [x] Day 03 ⭐⭐
 - [x] Day 04 ⭐⭐
-- [x] Day 05 ⭐
+- [x] Day 05 ⭐⭐
 - [ ] Day 06
 - [ ] Day 07
 - [ ] Day 08
