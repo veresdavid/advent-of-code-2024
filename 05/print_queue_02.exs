@@ -4,7 +4,7 @@ defmodule PrintQueue do
   def solve do
     [rule_input, update_input] =
       IO.read(:eof)
-      |> String.split("\n\n", trime: true)
+      |> String.split("\n\n", trim: true)
       |> Enum.map(fn part -> String.split(part, "\n", trim: true) end)
 
     rule_map =
