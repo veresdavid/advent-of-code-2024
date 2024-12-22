@@ -24,7 +24,7 @@ My Advent of Code 2024 calendar, solutions written in **Elixir**.
 - [x] Day 18 ⭐⭐
 - [x] Day 19 ⭐⭐
 - [x] Day 20 ⭐
-- [ ] Day 21
+- [x] Day 21 ⭐
 - [ ] Day 22
 - [ ] Day 23
 - [ ] Day 24
